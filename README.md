@@ -9,8 +9,12 @@ having to manually respond to each comment?
 
 - Python
 
+## Getting Started
+
 ### Prerequisites 
-- Install facebook sdk
+- Install Facebook SDK for Python
     ```
     pip install facebook-sdk
     ```
+- How to get started with Facebook Graph API and retrieve your access token: https://developers.facebook.com/docs/graph-api/get-started
+- Facebook's Graph API classes, methods, and functions: https://facebook-sdk.readthedocs.io/en/latest/api.html
