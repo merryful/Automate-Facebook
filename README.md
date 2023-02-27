@@ -5,6 +5,8 @@ that she was pregnant. I'm sure she had over 50 comments under that post congrau
 have to take some time to reply to everyone and I thought, don't you wish there was a way to respond "Thank You" to everyone without 
 having to manually respond to each comment?
 
+I used Facebook Graph API to get data into and out of the Facebook platform.
+
 #### Built With
 
 - Python
@@ -16,5 +18,8 @@ having to manually respond to each comment?
     ```
     pip install facebook-sdk
     ```
-- How to get started with Facebook Graph API and retrieve your access token: https://developers.facebook.com/docs/graph-api/get-started
-- Facebook's Graph API classes, methods, and functions: https://facebook-sdk.readthedocs.io/en/latest/api.html
+- How to get started with Facebook Graph API and retrieve your access token: 
+   - https://developers.facebook.com/docs/graph-api/get-started
+   
+- Facebook's Graph API classes, methods, and functions: 
+   - https://facebook-sdk.readthedocs.io/en/latest/api.html
